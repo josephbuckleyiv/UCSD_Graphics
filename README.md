@@ -1,1 +1,1 @@
-# TBD Need to move OpenGL notes here.
+# TODO Need to move OpenGL notes here.
